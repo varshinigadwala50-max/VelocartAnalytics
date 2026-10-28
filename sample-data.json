@@ -1,0 +1,165 @@
+{
+  "business_users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@velocart.com",
+      "password": "admin123",
+      "company_name": "VeloCart Inc",
+      "location": "San Francisco, CA",
+      "job_title": "Founder",
+      "phone": "+1-555-0100",
+      "created_at": "2025-01-15T10:00:00Z"
+    }
+  ],
+  "customer_users": [
+    {
+      "id": 1,
+      "username": "shopper_maya",
+      "email": "maya@email.com",
+      "password": "maya1234",
+      "brand": "VeloCart Essentials",
+      "product": "Wireless Earbuds Pro",
+      "location": "Austin, TX",
+      "phone": "+1-555-0199",
+      "created_at": "2025-03-01T12:00:00Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "Wireless Earbuds Pro",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 145,
+      "sold": 412,
+      "image_url": "assets/products/wireless-earbuds.svg"
+    },
+    {
+      "id": "P002",
+      "name": "Smart Watch Series 5",
+      "category": "Electronics",
+      "price": 249.0,
+      "stock": 67,
+      "sold": 289,
+      "image_url": "assets/products/smart-watch.svg"
+    },
+    {
+      "id": "P003",
+      "name": "Minimalist Backpack",
+      "category": "Fashion",
+      "price": 59.99,
+      "stock": 203,
+      "sold": 521,
+      "image_url": "assets/products/backpack.svg"
+    },
+    {
+      "id": "P004",
+      "name": "Organic Cotton T-Shirt",
+      "category": "Fashion",
+      "price": 29.99,
+      "stock": 512,
+      "sold": 890,
+      "image_url": "assets/products/cotton-t-shirt.svg"
+    },
+    {
+      "id": "P005",
+      "name": "Ceramic Coffee Mug Set",
+      "category": "Home & Kitchen",
+      "price": 34.5,
+      "stock": 178,
+      "sold": 267,
+      "image_url": "assets/products/ceramic-mugs.svg"
+    },
+    {
+      "id": "P006",
+      "name": "Yoga Mat Premium",
+      "category": "Sports",
+      "price": 45.0,
+      "stock": 98,
+      "sold": 56,
+      "image_url": "assets/products/yoga-mat.svg"
+    },
+    {
+      "id": "P007",
+      "name": "Vitamin C Serum",
+      "category": "Beauty",
+      "price": 28.0,
+      "stock": 234,
+      "sold": 445,
+      "image_url": "assets/products/vitamin-c-serum.svg"
+    },
+    {
+      "id": "P008",
+      "name": "Noise Cancelling Headphones",
+      "category": "Electronics",
+      "price": 179.99,
+      "stock": 54,
+      "sold": 203,
+      "image_url": "assets/products/headphones.svg"
+    },
+    {
+      "id": "P009",
+      "name": "Running Shoes Elite",
+      "category": "Sports",
+      "price": 129.0,
+      "stock": 87,
+      "sold": 48,
+      "image_url": "assets/products/running-shoes.svg"
+    },
+    {
+      "id": "P010",
+      "name": "LED Desk Lamp",
+      "category": "Home & Kitchen",
+      "price": 42.99,
+      "stock": 156,
+      "sold": 34,
+      "image_url": "assets/products/led-desk-lamp.svg"
+    },
+    {
+      "id": "P011",
+      "name": "Leather Wallet",
+      "category": "Fashion",
+      "price": 49.99,
+      "stock": 189,
+      "sold": 298,
+      "image_url": "assets/products/leather-wallet.svg"
+    },
+    {
+      "id": "P012",
+      "name": "Protein Powder 2kg",
+      "category": "Sports",
+      "price": 54.99,
+      "stock": 112,
+      "sold": 41,
+      "image_url": "assets/products/protein-powder.svg"
+    },
+    {
+      "id": "P013",
+      "name": "Skincare Gift Set",
+      "category": "Beauty",
+      "price": 75.0,
+      "stock": 45,
+      "sold": 28,
+      "image_url": "assets/products/skincare-set.svg"
+    },
+    {
+      "id": "P014",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 69.99,
+      "stock": 134,
+      "sold": 245,
+      "image_url": "assets/products/bt-speaker.svg"
+    },
+    {
+      "id": "P015",
+      "name": "Bestseller Novel Bundle",
+      "category": "Books",
+      "price": 39.99,
+      "stock": 267,
+      "sold": 22,
+      "image_url": "assets/products/book-bundle.svg"
+    }
+  ]
+}
