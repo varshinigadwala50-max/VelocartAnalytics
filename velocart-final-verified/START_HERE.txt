@@ -1,0 +1,23 @@
+VELOCART — START HERE
+
+1. Extract the complete ZIP file.
+2. Open the extracted velocart folder.
+3. Double-click RUN_VELOCART.bat (Windows + Python 3 required for the local server).
+4. Keep the terminal window open; the browser opens the login page.
+5. Sign in using the prefilled demo credentials or any valid email + non-empty password.
+6. Use the left sidebar. Every item opens its own content view; try Products, Inventory Health, Sales Analytics, Business Insights, Reports, Discount Planner and Settings.
+7. Reports and Sales Analytics have Weekly / Monthly / Yearly selectors. Reports can export a CSV file.
+
+Product photography is stored locally in assets/product-photos, so it does not need a third-party image server.
+
+This is an educational frontend demo. The figures are sample data and login is not production-secure. The included Python files are starter backend components and are not launched by RUN_VELOCART.bat.
+
+
+UPDATED SHARED-DATABASE VERSION
+Run RUN_VELOCART.bat and open http://127.0.0.1:5000. Do not open index.html directly.
+
+PYTHON ANALYTICS FOR REVIEW
+- Pandas: used in data_loader.py, metrics.py, and the analytics API.
+- Matplotlib: open http://127.0.0.1:5000/api/analytics/revenue-by-category.png after starting the server.
+- SQLite: stores product data in velocart.db.
+- To view the Pandas summary JSON, open http://127.0.0.1:5000/api/analytics/summary.

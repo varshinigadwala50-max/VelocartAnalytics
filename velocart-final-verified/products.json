@@ -1,0 +1,162 @@
+[
+  {
+    "id": "headphones",
+    "name": "Studio Headphones",
+    "category": "Electronics",
+    "price": 3999,
+    "cost": 2450,
+    "sold": 128,
+    "stock": 45,
+    "image": "assets/products/headphones.svg"
+  },
+  {
+    "id": "wireless-earbuds",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 1999,
+    "cost": 1200,
+    "sold": 245,
+    "stock": 48,
+    "image": "assets/products/wireless-earbuds.svg"
+  },
+  {
+    "id": "smart-watch",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 6999,
+    "cost": 4100,
+    "sold": 74,
+    "stock": 8,
+    "image": "assets/products/smart-watch.svg"
+  },
+  {
+    "id": "running-shoes",
+    "name": "Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 2499,
+    "cost": 1600,
+    "sold": 180,
+    "stock": 12,
+    "image": "assets/products/running-shoes.svg"
+  },
+  {
+    "id": "backpack",
+    "name": "Everyday Backpack",
+    "category": "Fashion",
+    "price": 1899,
+    "cost": 1100,
+    "sold": 140,
+    "stock": 8,
+    "image": "assets/products/backpack.svg"
+  },
+  {
+    "id": "skincare-set",
+    "name": "Glow Skincare Set",
+    "category": "Beauty & Personal Care",
+    "price": 1499,
+    "cost": 950,
+    "sold": 120,
+    "stock": 22,
+    "image": "assets/products/skincare-set.svg"
+  },
+  {
+    "id": "vitamin-c-serum",
+    "name": "Vitamin C Serum",
+    "category": "Beauty & Personal Care",
+    "price": 799,
+    "cost": 390,
+    "sold": 185,
+    "stock": 34,
+    "image": "assets/products/vitamin-c-serum.svg"
+  },
+  {
+    "id": "face-moisturizer",
+    "name": "Hydrating Face Cream",
+    "category": "Beauty & Personal Care",
+    "price": 649,
+    "cost": 310,
+    "sold": 160,
+    "stock": 28,
+    "image": "assets/products/face-moisturizer.svg"
+  },
+  {
+    "id": "perfume",
+    "name": "Signature Eau de Parfum",
+    "category": "Beauty & Personal Care",
+    "price": 2199,
+    "cost": 1050,
+    "sold": 92,
+    "stock": 14,
+    "image": "assets/products/perfume.svg"
+  },
+  {
+    "id": "hair-dryer",
+    "name": "Ionic Hair Dryer",
+    "category": "Home Appliances",
+    "price": 3299,
+    "cost": 2100,
+    "sold": 68,
+    "stock": 9,
+    "image": "assets/products/hair-dryer.svg"
+  },
+  {
+    "id": "coffee-maker",
+    "name": "Compact Coffee Maker",
+    "category": "Home Appliances",
+    "price": 4599,
+    "cost": 2900,
+    "sold": 52,
+    "stock": 7,
+    "image": "assets/products/coffee-maker.svg"
+  },
+  {
+    "id": "blender",
+    "name": "Portable Blender",
+    "category": "Home Appliances",
+    "price": 1799,
+    "cost": 990,
+    "sold": 96,
+    "stock": 16,
+    "image": "assets/products/blender.svg"
+  },
+  {
+    "id": "desk-lamp",
+    "name": "LED Desk Lamp",
+    "category": "Home & Living",
+    "price": 1299,
+    "cost": 650,
+    "sold": 115,
+    "stock": 21,
+    "image": "assets/products/desk-lamp.svg"
+  },
+  {
+    "id": "speaker",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 2599,
+    "cost": 1450,
+    "sold": 105,
+    "stock": 18,
+    "image": "assets/products/speaker.svg"
+  },
+  {
+    "id": "laptop-stand",
+    "name": "Aluminium Laptop Stand",
+    "category": "Electronics",
+    "price": 1499,
+    "cost": 800,
+    "sold": 88,
+    "stock": 11,
+    "image": "assets/products/laptop-stand.svg"
+  },
+  {
+    "id": "water-bottle",
+    "name": "Insulated Bottle",
+    "category": "Home & Living",
+    "price": 899,
+    "cost": 420,
+    "sold": 205,
+    "stock": 56,
+    "image": "assets/products/water-bottle.svg"
+  }
+]
