@@ -1,4 +1,7 @@
-"""
+""".
+metrics.py
+Expected analytics engine: KPIs, category sales, inventory and priorities
+
 VeloCart — Analytics Engine
 ---------------------------
 Financial performance, high/low priority product sorting,

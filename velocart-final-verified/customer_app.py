@@ -1,4 +1,5 @@
-"""
+"""******customer_app.py
+Product search, categories and clearance candidates************
 VeloCart — Customer View UI
 ---------------------------
 Search, product detail trends, and "Less Priority / Overstock Clearance"

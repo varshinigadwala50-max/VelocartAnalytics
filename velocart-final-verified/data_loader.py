@@ -3,7 +3,11 @@ VeloCart — Data Ingestion Layer
 --------------------------------
 Accepts a company CSV (or in-memory DataFrame), cleans missing values,
 and standardizes columns: Order_Date, Revenue, Product_ID, etc.
+__________________________________________
+_____________data_loader.py
 
+Loads, standardizes and cleans data using Pandas_____________________
+_____________________________________________
 Usage:
     from data_loader import load_orders
     df = load_orders("data/sample_orders.csv")

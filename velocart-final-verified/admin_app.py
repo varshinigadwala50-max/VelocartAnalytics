@@ -1,7 +1,10 @@
-"""
+"""***************admin_app.py
+Management dashboard, charts and KPIs
+*************************
 VeloCart — Admin View UI (Business Manager / Founder)
 ------------------------------------------------------
 High-level sales KPIs, geographical sales, inventory health.
+
 
 Run:
     streamlit run admin_app.py
